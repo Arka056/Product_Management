@@ -1,0 +1,1 @@
+This is a RESTful API for managing products, built using Spring Boot for the backend and React for the frontend. The API supports CRUD (Create, Read, Update, Delete) operations for product management, ensuring a seamless experience for users.
